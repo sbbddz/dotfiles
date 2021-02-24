@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/samuel/test-frontend/src/app/components/personal-donation-list'
+let g:netrw_dirhist_1='/home/samuel/test-frontend/src/app/components'
+let g:netrw_dirhist_0='/home/samuel/test-frontend/src/app'
+let g:netrw_dirhist_9='/home/samuel/test-frontend/src'
+let g:netrw_dirhist_8='/home/samuel/test-frontend/src/app/components/personal-donation-list'
+let g:netrw_dirhist_7='/home/samuel/test-frontend/src/app/components'
+let g:netrw_dirhist_6='/home/samuel/test-frontend/src/app'
+let g:netrw_dirhist_5='/home/samuel/test-frontend/src'
+let g:netrw_dirhist_4='/home/samuel/test-frontend/src/app/components/donation-list'
+let g:netrw_dirhist_3='/home/samuel/test-frontend/src/app/components'
