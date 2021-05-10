@@ -44,6 +44,12 @@ alias reboot="sync && sync && reboot"
 alias media="cd /run/media/samuel/"
 alias ls="exa"
 alias l="exa -laG"
+alias c="cd"
+
+# ALIAS GIT
+alias gs="git status"
+alias gc="git commit"
+alias gadd="git add ."
 
 # ALIAS DIRECTORYS & FILES
 alias doc="cd ~/documents"
@@ -61,3 +67,5 @@ export NVM_DIR="$HOME/.nvm"
 
 # WORK WITH TMUX
 [[ $TERM != "screen" ]] && exec tmux
+
+# SOURCE ZSHUSER PLUGINS
